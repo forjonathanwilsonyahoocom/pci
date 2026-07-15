@@ -6,6 +6,8 @@
 * [claude-critiques-the-initial-idea](#claude-critiques-the-following-two-sections)
 * [gpt-responding-to-claude](#gpt-responding-to-claude)
 * [claude-proposes-experiement-based-on-the-thread](#claude-proposes-experiement-based-on-the-thread)
+* [experiment result operators/distillation.md](operators/distillation.md))
+* [claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd](#claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd)
 
 # claude has hardening ideas about the proposed [operators/distillation.md](operators/distillation.md)
 
