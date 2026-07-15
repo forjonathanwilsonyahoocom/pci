@@ -5,9 +5,10 @@
 * [duck-ai-then-critiques-this-idea](#duck-ai-then-critiques-this-idea)
 * [claude-critiques-the-initial-idea](#claude-critiques-the-following-two-sections)
 * [gpt-responding-to-claude](#gpt-responding-to-claude)
+* [#claude-proposes-experiement-based-on-the-thread](#claude-proposes-experiement-based-on-the-thread)
 
 
-# claude proposes experiement based on thie thread
+# claude proposes experiement based on the thread
 
 This response earns its keep — it's the first document in the thread that actually tries to falsify itself instead of just adding more layers on top of the frame. A few reactions, then a concrete push.
 Where it's genuinely stronger than the last round
