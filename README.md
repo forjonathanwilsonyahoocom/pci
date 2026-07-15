@@ -1220,4 +1220,6 @@ The thing that needs proving is whether that can happen reliably, outside of thi
 
 That is the experiment. And I actually think this critique makes the idea stronger, because it exposed the exact places where the "pattern" needs to become an engineered system.
 
+[read the skills docs, observe the diff for yourself](https://claude.com/docs/skills/how-to)
+
 
