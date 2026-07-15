@@ -1,7 +1,7 @@
 # pci
 Portable Cognitive Interface, a pattern to summarize some concept into a context capsule 
 
-
+[totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina](#totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina)
 
 
 # claude critiques the following two sections:
