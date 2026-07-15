@@ -5,7 +5,7 @@
 * [duck-ai-then-critiques-this-idea](#duck-ai-then-critiques-this-idea)
 * [claude-critiques-the-initial-idea](#claude-critiques-the-following-two-sections)
 * [gpt-responding-to-claude](#gpt-responding-to-claude)
-* [#claude-proposes-experiement-based-on-the-thread](#claude-proposes-experiement-based-on-the-thread)
+* [claude-proposes-experiement-based-on-the-thread](#claude-proposes-experiement-based-on-the-thread)
 
 
 # claude proposes experiement based on the thread
