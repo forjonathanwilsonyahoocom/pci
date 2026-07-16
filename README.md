@@ -26,7 +26,7 @@
 | L1 | Is the rubric understandable? | Blind criteria agreement |
 | L2 | Do different judges produce similar artifact decisions? | Inter-rater agreement |
 | L3 | Can decisions be reconstructed from compressed context? | Held-out reconstruction |
-| L4 | Does reconstruction improve real engineering work? | |
+| L4 | Does reconstruction improve real engineering work? | Downstream task performance |
 
 
 # claude has hardening ideas about the proposed [operators/distillation.md](operators/distillation.md)
