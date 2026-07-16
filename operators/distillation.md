@@ -129,6 +129,13 @@ Method sketch:
 Keep/discard criterion:
 - Only keep if it’s tied to a concrete measurement rather than a subjective “feels clearer”.
 
+
+## Step 4A — Ground-truth verdict note (sealed; writer-only)**
+- Output: `ground_truth_verdicts.json` with:
+  - `verdict[candidate_id] ∈ {KEEP, DISCARD, HOLD}`
+  - `reason_propositions[candidate_id] = [P1, P2, ...]`
+- **Rule:** the writer must not later edit this file after the judge run begins.
+
 ### Step 4: For each candidate, decide keep/discard now (no “later”)
 Decisions:
 
