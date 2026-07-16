@@ -18,6 +18,9 @@
 * [claude-proposes-experiement-based-on-the-thread](#claude-proposes-experiement-based-on-the-thread)
 * [experiment result operators/distillation.md](operators/distillation.md)
 * [claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd](#claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd)
+# operator was updated, some experiments done but all related to a self referential distillation.md
+* [claude-interrogated-framework-validity-while-acknowledging-genuine-architectural-insights](#claude-interrogated-framework-validity-while-acknowledging-genuine-architectural-insights)
+* [gpt-has-an-interesting-next-step](#gpt-has-an-interesting-next-step)
 
 
 # layered validation strategy
