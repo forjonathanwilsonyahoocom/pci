@@ -1,5 +1,11 @@
+
+
 # pci
 ## Portable Cognitive Interface, a pattern to summarize some concept into a context capsule 
+
+
+* A successful PCI should reduce the amount of hidden context required to collaborate.
+* The goal of a Portable Cognitive Interface is not to preserve conversations; it is to preserve enough shared vocabulary that productive conversations can be reconstructed with any future collaborator. 
 
 * [totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina](#totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina)
 * [duck-ai-then-critiques-this-idea](#duck-ai-then-critiques-this-idea)
