@@ -130,13 +130,19 @@ Keep/discard criterion:
 - Only keep if it’s tied to a concrete measurement rather than a subjective “feels clearer”.
 
 
-## Step 4A — Ground-truth verdict note (sealed; writer-only)**
+### Step 4: For each candidate, decide keep/discard now (no “later”)
+
+**Step 4A — Ground-truth verdict note (sealed; writer-only)**
 - Output: `ground_truth_verdicts.json` with:
   - `verdict[candidate_id] ∈ {KEEP, DISCARD, HOLD}`
   - `reason_propositions[candidate_id] = [P1, P2, ...]`
 - **Rule:** the writer must not later edit this file after the judge run begins.
 
-### Step 4: For each candidate, decide keep/discard now (no “later”)
+
+**Step 4B — Judge pass (verdict-only)**
+- Input: criteria + candidates + *sealed* ground_truth_verdicts file is **not provided to the model generating the verdicts**.
+- Output: `judge_verdicts.json` with the same candidate ids.
+
 Decisions:
 
 - Candidate 1: KEEP
@@ -154,6 +160,14 @@ Decisions:
 - Candidate 4: DISCARD for this attempt
   Rationale: orthogonality checks risk becoming another “schema feels better” measurement unless you already have
   a concrete scoring rubric and held-out failure cases.
+
+
+**Step 4C — Scoring pass (compare, report, apply consequences)**
+- Computes:
+  - decision match rate
+  - reason proposition overlap metrics
+- Applies consequences ladder (next section).
+
 
 ## Distillation output (the “candidate artifacts we would commit” list)
 COMMIT NOW:
