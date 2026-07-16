@@ -2,17 +2,20 @@
 # Distillation operator for converting a conversation transcript into candidate repo artifacts,
 # then deciding—explicitly—what we keep and what we discard.
 
-* conversation
-##    ↓
-* claims
-##    ↓
-* candidate artifacts
-##    ↓
-* critique
-##    ↓
-* commit / discard
-##    ↓
-* repository
+
+```text
+conversation
+    ↓
+claims
+    ↓
+candidate artifacts
+    ↓
+critique
+    ↓
+commit / discard
+    ↓
+repository
+```
 
 ## Distillation thesis (weakened)
 PCI is a proposed format for making reasoning processes portable between humans, models, and tools.
