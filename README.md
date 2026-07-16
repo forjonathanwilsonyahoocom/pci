@@ -18,6 +18,17 @@
 * [experiment result operators/distillation.md](operators/distillation.md)
 * [claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd](#claude-has-hardening-ideas-about-the-proposed-operatorsdistillationmd)
 
+
+# layered validation strategy
+
+| Layer | Question | Evidence |
+|-------|----------|----------|
+| L1 | Is the rubric understandable? | Blind criteria agreement |
+| L2 | Do different judges produce similar artifact decisions? | Inter-rater agreement |
+| L3 | Can decisions be reconstructed from compressed context? | Held-out reconstruction |
+| L4 | Does reconstruction improve real engineering work? | |
+
+
 # claude has hardening ideas about the proposed [operators/distillation.md](operators/distillation.md)
 
 This is the first document in the whole thread that actually produces something with teeth — real keep/discard verdicts, a real discard (Candidate 4), a real hold (Candidate 3) instead of forcing everything through. That's worth naming: this is what "artifact, not schema" looks like. A few things to tighten before you commit.
