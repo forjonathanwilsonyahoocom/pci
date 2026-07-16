@@ -3,15 +3,15 @@
 # then deciding—explicitly—what we keep and what we discard.
 
 * conversation
-#    ↓
+##    ↓
 * claims
-#    ↓
+##    ↓
 * candidate artifacts
-#    ↓
+##    ↓
 * critique
-#    ↓
+##    ↓
 * commit / discard
-#    ↓
+##    ↓
 * repository
 
 ## Distillation thesis (weakened)
