@@ -143,7 +143,7 @@ Keep/discard criterion:
 - Input: criteria + candidates + *sealed* ground_truth_verdicts file is **not provided to the model generating the verdicts**.
 - Output: `judge_verdicts.json` with the same candidate ids.
 
-Decisions:
+#### Example Decisions:
 
 - Candidate 1: KEEP
   Rationale: directly addresses the missing “distillation operator” and uses this transcript as a worked example.
