@@ -8,6 +8,7 @@
 * The goal of a Portable Cognitive Interface is not to preserve conversations; it is to preserve enough shared vocabulary that productive conversations can be reconstructed with any future collaborator.
 * Before investing attention into elaborating a specification, seal the expected decisions, reconstruct them under information constraints, compare independently, and only then decide whether the specification actually preserved the decision process.
 * the output of : "Read the CAE repo, then the PCI repo. Assume those define the vocabulary. Help me extend pattern X." is exactly what i would want to be consuming in the future
+* Aims to solve: It's Friday. Claude has all this context. I want to continue with GPT tomorrow without burning 150k tokens reconstructing the last week.
 
 
 * [totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina](#totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina)
