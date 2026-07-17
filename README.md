@@ -9,7 +9,11 @@
 * Before investing attention into elaborating a specification, seal the expected decisions, reconstruct them under information constraints, compare independently, and only then decide whether the specification actually preserved the decision process.
 * the output of : "Read the CAE repo, then the PCI repo. Assume those define the vocabulary. Help me extend pattern X." is exactly what i would want to be consuming in the future
 * Aims to solve: It's Friday. Claude has all this context. I want to continue with GPT tomorrow without burning 150k tokens reconstructing the last week.
-
+* A cognitive pattern is probably real when its failure modes are more specific than its success case.
+* Experience rarely teaches one lesson. Good cognitive interfaces should avoid compressing multiple learned decision boundaries into a single artifact just because they occurred in the same story.
+  * One experience may produce multiple portable interfaces. Don't optimize for narrative unity at the expense of operational clarity.
+* What is the smallest artifact that produces the same next decision that the experience would have produced?
+* What is the smallest artifact that would have allowed today's collaboration to begin where this evening's collaboration ended?
 
 * [totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina](#totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina)
 * [duck-ai-then-critiques-this-idea](#duck-ai-then-critiques-this-idea)
@@ -31,6 +35,9 @@
 | L2 | Do different judges produce similar artifact decisions? | Inter-rater agreement |
 | L3 | Can decisions be reconstructed from compressed context? | Held-out reconstruction |
 | L4 | Does reconstruction improve real engineering work? | Downstream task performance |
+
+
+
 
 # GPT has an interesting next step
 This is actually a really good "two agents arguing productively" moment, because I think Claude's critique improves the PCI framing more than either of the previous answers did.
