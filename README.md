@@ -14,6 +14,10 @@
   * One experience may produce multiple portable interfaces. Don't optimize for narrative unity at the expense of operational clarity.
 * What is the smallest artifact that produces the same next decision that the experience would have produced?
 * What is the smallest artifact that would have allowed today's collaboration to begin where this evening's collaboration ended?
+* Every abstraction should survive at least one collaborator actively trying to collapse it.
+* What part of my model is strictly larger than it was before?
+* Don't preserve history. Preserve the interface that allows future collaboration to resume.
+
 
 * [totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina](#totally-rough-draft-of-the-idea-being-sketched-out-by-me-et-machina)
 * [duck-ai-then-critiques-this-idea](#duck-ai-then-critiques-this-idea)
